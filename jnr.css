@@ -1,0 +1,61 @@
+#body{
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+margin-top:0px;	
+	
+}
+
+#box{
+	margin-left:auto;
+	margin-right:auto;
+	width:1500px;
+	height:auto;
+	margin-top:20px;
+	
+	
+}
+
+#header{
+	height:90px;
+	background-color:#ade774;
+	
+	
+}
+#header img{
+	margin-top:5px;
+	
+}
+#menubar{
+	height:50px;
+	background-color:#ffffff ;
+	margin-top:2px;
+	
+}
+
+#menubar li{
+	float:left;
+	list-style:none;
+
+	display:block;
+	height:50px;
+	width:300px;
+	text-align:center;
+	line-height:50px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:20px;
+}
+#menubar li a{
+	text-decoration:none;
+	
+}
+#menubar li:Hover{
+	background-color:#acd74e;
+}
+
+#mainbody{
+	height:auto;
+	width:900px;
+	
+	
+}
